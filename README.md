@@ -5,14 +5,14 @@ A command-line tool to deploy self-hosted open source software with a single com
 ## Installation
 
 ```bash
-go install github.com/opengittr/opensourcer-cli@latest
+go install github.com/opengittr/opensourcer@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/opengittr/opensourcer-cli.git
-cd opensourcer-cli
+git clone https://github.com/opengittr/opensourcer.git
+cd opensourcer
 go build -o opensourcer .
 ```
 

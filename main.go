@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/opengittr/opensourcer-cli/internal"
+	"github.com/opengittr/opensourcer/internal"
 	"gofr.dev/pkg/gofr"
 )
 

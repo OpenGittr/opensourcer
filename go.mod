@@ -1,4 +1,4 @@
-module github.com/opengittr/opensourcer-cli
+module github.com/opengittr/opensourcer
 
 go 1.25
 
